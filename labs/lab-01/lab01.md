@@ -13,6 +13,7 @@ quicker.
 
 
 4. Please read chapter 3 of Free Culture. Write a short paragraph (8 to 10 sentences) of what you got out of reading that chapter.
+
 After reading chapter 3 of Free Culture, what I found interesting was how the RIAA was able to build a case against Jesse. Jesse slightly modified 
 a search engine to improve user accessbility; he did not build it with the intention to aid pirating. Yet, the RIAA was able to build a case saying that 
 Jesse built this search engine with then intention of piarting. In my opinion, nobody is really at fault for this as neither Microsoft or Jesse built/modified
@@ -29,23 +30,45 @@ Tree Manpage Screenshot:
 
 ## Part 4: Regex
 RegexOne Problems:
+
+Problem 1: 
 ![Problem 1](./regexone_1.PNG?raw=true "Problem 1")
+
+Problem 2: 
 ![Problem 2](./regexone_2.PNG?raw=true "Problem 2")
+
+Problem 3:
 ![Problem 3](./regexone_3.PNG?raw=true "Problem 3")
+
+Problem 4:
 ![Problem 4](./regexone_4.PNG?raw=true "Problem 4")
+
+Problem 5:
 ![Problem 5](./regexone_5.PNG?raw=true "Problem 5")
+
+Problem 6:
 ![Problem 6](./regexone_6.PNG?raw=true "Problem 6")
+
+Problem 7:
 ![Problem 7](./regexone_7.PNG?raw=true "Problem 7")
 
 Regex Crosswords:
+
+Croosword 1:
 ![Crossword 1](./crossword_1.PNG?raw=true "Crossword 1")
+
+Crossword 2:
 ![Crossword 2](./crossword_2.PNG?raw=true "Crossword 2")
+
+Crossword 3:
 ![Crossword 3](./crossword_3.PNG?raw=true "Crossword 3")
+
+Crossword 4:
 ![Crossword 4](./crossword_4.PNG?raw=true "Crossword 4")
 
 ## Part 5: Blocky
 Blocky Maze Solution:
-![Blocky Maze Screenshot](./block_solution.PNG?raw=true)
+![Blocky Maze Screenshot](./blocky_solution.PNG?raw=true)
 
 
 ## Part 6: Reflection
