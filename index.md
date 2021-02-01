@@ -1,8 +1,11 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Spring 2021
+## Dennis Chau
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Senior computer science student at RPI! Currently taking Open Source Software in the Spring 2021 semester.
+Photo:
+[Headshot](./headshot.jpg)
+Discord: slick0888 #7262
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
