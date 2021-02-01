@@ -7,6 +7,7 @@ Senior computer science student at RPI! Currently taking Open Source Software in
 Photo:
 ![Headshot](./headshot.jpg)
 
+[GitHub](https://github.com/dchau2017)
 
 Discord: slick0888 #7262
 
