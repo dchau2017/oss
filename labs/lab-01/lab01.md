@@ -54,7 +54,7 @@ Problem 7:
 
 Regex Crosswords:
 
-Croosword 1:
+Crossword 1:
 ![Crossword 1](./crossword_1.PNG?raw=true "Crossword 1")
 
 Crossword 2:
