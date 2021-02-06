@@ -2,7 +2,6 @@
 
 ## Part 1:
 Part 1 Link: https://github.com/dchau2017/lab2part1
-TODO: Add photo
 
 GitK Screenshot:
 ![GitK Screenshot](./gitk.png?raw=true)
