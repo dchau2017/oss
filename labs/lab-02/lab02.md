@@ -5,8 +5,9 @@ Part 1 Link: https://github.com/dchau2017/lab2part1
 TODO: Add photo
 
 GitK Screenshot:
+![GitK Screenshot](./gitk.PNG?raw=true)
 
-Git Log Screenshot: 
+Git Log Screenshot:
 ![Git Log Screenshot](./git_log_capture.PNG?raw=true)
 
 
@@ -14,7 +15,7 @@ Git Log Screenshot:
 ## Part 2:
 Forked Repo: https://github.com/dchau2017/Spoon-Knife
 
-Learn Git Branching: 
+Learn Git Branching:
 ![Git Branching Capture](./introSequence.PNG?raw=true)
 
 
