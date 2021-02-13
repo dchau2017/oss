@@ -7,9 +7,10 @@ Part 2 Link: Project Ideas Link: https://github.com/dchau2017/oss-repo-template/
 Part 3 Latex Screenshots:
 
 ![Latex Formula](./part1_3.png?raw=true)
+![Latex Formula 2](./part1_3_2.png?raw=true)
 
 Part 4 Latex Screenshot:
-![Hadamard Matrix](./part1_3_2.png?raw=true)
+![Hadamard Matrix](./part1_4.png?raw=true)
 
 
 ## Part 2 - Community:
