@@ -9,7 +9,7 @@ Part 3 Latex Screenshots:
 ![Latex Formula](./part1_3.png?raw=true)
 
 Part 4 Latex Screenshot:
-![Hadamard Matrix](.part1_3_2.png?raw=true)
+![Hadamard Matrix](./part1_3_2.png?raw=true)
 
 
 ## Part 2 - Community:
@@ -17,9 +17,13 @@ Part 4 Latex Screenshot:
 ### Project 1: DormDesign
 
 **Number of Contributors**: 2
+
 **Lines of Code:** 22680 lines
+
 **First Commit:** 9/8/2020: Inital Commit by Graham Misail
+
 **Latest Commit:** 2/12/2021: Include stub for database by Graham Misail
+
 **Current Branches:** Master, port-backend, editor-improvements, duplicate-item, error-pages, dockerizing, templates, settings-set-title, tweaks-and-fixes, heroku
 
 **Comparison:** GitStats says there are 22328 lines of code (probably includes code in seperate branches) whereas 
@@ -40,9 +44,13 @@ DormDesign Video:
 ### Project 2: Exalendar
 
 **Number of Contributors:** 6
+
 **Lines of Code:** 58269 lines
+
 **First Commit:** 9/15/2020: Inital Commit by NatSR4
+
 **Last Commit:** 2/12/2021: Delete about.html by NatSR4
+
 **Current Branches:** master, login, Calendar, Settings, Database-prototyping, learning-nicholas, Learning-Kyra
 
 **Comparison**: Exalendar says there are only 7410 lines of code and 8 authors. But it looks like 2 authors are double-listed as well.
@@ -59,9 +67,13 @@ Exalendar Video:
 ### Project 3: FLOM
 
 **Number of Contributors:** 9
+
 **Lines of Code:** 104793 lines
+
 **First Commit:** 1/22/2019: Inital Commit by jadeforman
+
 **Last Commit:** 4/28/2020: nav bar by ChoiJustin
+
 **Current Branches:**  16 branches (master, 404page, changeabout, etc...)
 
 **Comparison**: GitStats says there are 80965 lines of code so there is a bit of a difference there. GitStats says there are
@@ -80,9 +92,13 @@ FLOM Video:
 ### Project 4: Flutter Shutter Tracker
 
 **Number of Contributors:** 5
+
 **Lines of Code:** 37641 lines
+
 **First Commit:**: 2/21/2020 Inital Commit by DerekLi
+
 **Last Commit:**: 12/6/2020 Commented Code and Documentation by RRM123
+
 **Current Branches:**: 13 branches (master, eta_panel, feature-geolocation, etc...)
 
 **Comparison**: GitStats says there are 6 authors but one is double-listed. GitStats there are 18887 lines of code
@@ -97,3 +113,6 @@ Flutter Shutter Tracker GitStats:
 
 Flutter Shutter Tracker Video: 
 ![Flutter Shutter Tracker Video](./shuttleTrackVideo.png?raw=true)
+
+
+All Gource Videos: https://github.com/dchau2017/oss-repo-template/tree/master/labs/lab-03/videos
