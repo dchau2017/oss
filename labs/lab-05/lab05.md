@@ -32,7 +32,7 @@ int main(int argc, char* argv[])
 }
 ```
 
-
+CMakeLists.txt:
 ```C
 cmake_minimum_required(VERSION 3.10)
 
@@ -51,7 +51,7 @@ target_include_directories(Tutorial PUBLIC "${PROJECT_BINARY_DIR}")
 ```
 
 Output Screenshot:
-![Output](./part1.png?raw=true)
+![Output](./part1.PNG?raw=true)
 
 
 ## Step 2:
@@ -131,7 +131,7 @@ target_include_directories(Tutorial PUBLIC
 ```
 
 Output Screenshot: 
-![Output](./part2.png?raw=true)
+![Output](./part2.PNG?raw=true)
 
 
 ## Step 3:
@@ -185,7 +185,7 @@ target_include_directories(MathFunctions
 ```
 
 Output Screenshot:  
-![Output](./part3.png?raw=true)
+![Output](./part3.PNG?raw=true)
 
 
 ## Step 4:
@@ -848,4 +848,4 @@ The size of static was 16856 while shared was 16696
 
 
 Output Screenshot:
-![Output](./section2.png?raw=true)
+![Output](./section2.PNG?raw=true)
