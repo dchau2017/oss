@@ -535,7 +535,7 @@ install(FILES MathFunctions.h DESTINATION include)
 ```
 
 Output Screenshot: 
-![Output](./part5.png?raw=true)
+![Output](./part5.PNG?raw=true)
 
 
 # Part 2:
