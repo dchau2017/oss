@@ -98,7 +98,7 @@ if __name__ == '__main__':
 ```
 
 Output Screenshot:
-![Output](./part1.PNG?raw=true)
+![Output](./part1.png?raw=true)
 
 
 
@@ -197,7 +197,7 @@ if __name__ == '__main__':
 ```
 
 Output Screenshot:
-![Output](./part3.PNG?raw=true)
+![Output](./part3.png?raw=true)
 
 
 ## Step 4:
@@ -299,4 +299,4 @@ if __name__ == '__main__':
 ```
 
 Output Screenshot:
-![Output](./part4.PNG?raw=true)
+![Output](./part4.png?raw=true)
