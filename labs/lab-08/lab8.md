@@ -23,3 +23,12 @@ Fixed Test
 
 
 ## Checkpoint 4
+Sucessful Pull Request
+![Sucessful Pull Request](./check4.PNG?raw=true)
+
+Workflows
+![workflow](./check4_2.PNG?raw=true)
+
+
+
+Github Repo: https://github.com/dchau2017/lab8_ci
