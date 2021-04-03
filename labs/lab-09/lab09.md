@@ -16,10 +16,30 @@ Running Cowsay
 ![Cowsay](./example1_2.png?raw=true)
 
 
-## Checkpoint 3
+## Example 2
 
-Failed Test
-![Failed Test](./check3_1.png?raw=true)
+RocketChat
+![RocketChat](./example2.png?raw=true)
 
-Fixed Test
-![Fixed Test](./check3_2.png?raw=true)
+Containers
+![Contianers](./example2_2.png?raw=true)
+
+Images
+![Images](./example2_3.png?raw=true)
+
+
+## Example 3
+
+Docker Build
+![Docker Build](./example3_1.png?raw=true)
+
+Build Success
+![Successful Build](./example3_2.png?raw=true)
+
+
+## Example 4
+Docker Compose
+![Docker Compise](./example4_1.png?raw=true)
+
+Curl Commands
+![Curl](./example4_2.png?raw=true)
