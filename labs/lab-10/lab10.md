@@ -1,5 +1,8 @@
 # Lab 10 - Databases
 
+## Check 0
+[Blog Link](https://rcos.io/projects/justinchen673/royal-flush/blog)
+
 ## Check 1
 ![Mongod](./check1.png?raw=true)
 
@@ -46,8 +49,13 @@ Other Results
 ![Other](./check4_2.png?raw=true)
 
 
+[Check 4 Code](https://github.com/dchau2017/oss/blob/master/labs/lab-10/checkpoint4.py)
+
 
 ## Check 5
 
 Multiple Dates Added
 ![Check5](./check5.png?raw=true)
+
+
+[Check 5 Code](https://github.com/dchau2017/oss/blob/master/labs/lab-10/checkpoint5.py)
